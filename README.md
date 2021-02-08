@@ -1,2 +1,2 @@
 # ghi-playground
-A playground for GitHub Issues.
+A playground for GitHub Issues
