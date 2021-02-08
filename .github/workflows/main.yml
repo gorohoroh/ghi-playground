@@ -1,0 +1,7 @@
+- name: Auto-assign Issue
+  uses: pozil/auto-assign-issue@v1.0.3
+  with:
+    # The GITHUB_TOKEN, needed to update the Issue
+    repo-token: ${{ secrets.GITHUB_TOKEN }}
+    # Comma separated list of user names
+    assignees: gorohoroh
